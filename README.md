@@ -37,7 +37,7 @@ Attached screenshots below show the different plots
 
 ![daily_returns](Starter_Code/Starter_Code/images/daily_returns.PNG)
 
-![daily_return_box_plot](Starter_Code/Starter_Code/images/daily_return_box_plot.PNG)
+![daily_returns_box_plot](Starter_Code/Starter_Code/images/daily_returns_box_plot.PNG)
 
 ![21_day_standard_deviation](Starter_Code/Starter_Code/images/21_day_standard_deviation.PNG)
 
